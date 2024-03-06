@@ -1,6 +1,7 @@
 # Bluetooth-Car
 
 In this project I am interfacing Bluetooth(HC-05) module with Arduino Nano, L293D Motor Driver. 
+
 Steps:
 Uplaod the code to Arduino Nano.
 Connect the TX and RX pins of bluetooth module to RX and TX pins of arduino nano respectively.
