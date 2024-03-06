@@ -11,7 +11,7 @@ Connect 5v to motor driver to 5v of nano. GND to GND of nano.
 Connect 9v/12v to vin and connect battery with Vin at positive and GND to negetive.
 Download the Arduino Car App from google play.
 Now pair the bluetooth module HC-05 to your phone.
-Open app and do the same. 
+Open app and do the same.  
 Now perform the forward, backward , left and right functions and see its working.
 
 Note: While uploading code remove the TX and RX pin from module.
